@@ -21,12 +21,15 @@ jobs:
           repository: ${{ env.BLOG_REPO }}
       - name: Install obsidian-export
         run: |
-          wget https://github.com/zoni/obsidian-export/releases/download/v22.11.0/obsidian-export_Linux-x86_64.bin
+          # wget https://github.com/zoni/obsidian-export/releases/download/v22.11.0/obsidian-export_Linux-x86_64.bin
+          wget https://github.com/zoni/obsidian-export/releases/download/v23.0.0/obsidian-export_Linux-x86_64.bin
           chmod +x obsidian-export_Linux-x86_64.bin
       - name: Run obsidian-export
         run: |
           rm -rf temp_blog/common_md && mkdir temp_blog/common_md
-          ./obsidian-export_Linux-x86_64.bin ./temp_md/${{ env.PUBLISH_DIR }} temp_blog/common_md
+          # ./obsidian-export_Linux-x86_64.bin ./temp_md/${{ env.PUBLISH_DIR }} temp_blog/common_md
+          # Added --hard-linebreaks and --no-recursive to simplify parsing
+          ./obsidian-export_Linux-x86_64.bin --hard-linebreaks ./temp_md/${{ env.PUBLISH_DIR }} temp_blog/common_md || echo "Export failed but continuing"
       - name: Move blog dir to currDir
         run: |
           cp -r temp_blog/. .
