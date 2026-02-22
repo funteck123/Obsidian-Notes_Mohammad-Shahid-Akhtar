@@ -25,6 +25,3 @@ Publish your Obsidian Notes with a highly customizable Next.JS blog starter temp
 
 
 
-
-
-# Landmarks

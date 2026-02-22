@@ -1,4 +1,4 @@
-%% Begin Waypoint %%
+%% Begin Landmark %%
 - **old**
 	- [[accepted-markdown-metadata]]
 	- [[connect-obsidian-vault-with-github]]
@@ -16,4 +16,4 @@
 - [[home]]
 - [[index]]
 
-%% End Waypoint %%
+%% End Landmark %%
