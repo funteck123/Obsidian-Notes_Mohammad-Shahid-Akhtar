@@ -11,7 +11,7 @@
 	- [[reinventing-the-wheel|Reinventing the Wheel]]
 	- [[statically-generated|works-out-of-the-box-with-markdown-files]]
 	- [[update-publish-settings-github-actions|Update the Publish Settings]]
-	- [[works-out-of-the-box-with-markdown-files|]works-out-of-the-box-with-markdown-files]
+	- [[works-out-of-the-box-with-markdown-files|]works-out-of-the-box-with-markdown-files]]
 - [[cat|cat]]
 - [[home|An Extendable Obsidian Publish alternative using Next.JS]]
 - [[index|index]]
