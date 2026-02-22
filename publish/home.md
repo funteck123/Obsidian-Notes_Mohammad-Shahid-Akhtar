@@ -9,7 +9,7 @@ Publish your Obsidian Notes with a highly customizable Next.JS blog starter temp
 - Full-text search
 
 
-[[Obsidian-Notes_Mohammad-Shahid-Akhtar/publish/cat|cat]]
+## [[cat]]
 ## [[how-linked-blog-starter-works|How it works]]
 ![[how-linked-blog-starter-works]]
 
