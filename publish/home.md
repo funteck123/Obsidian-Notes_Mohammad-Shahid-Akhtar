@@ -15,10 +15,7 @@ Publish your Obsidian Notes with a highly customizable Next.JS blog starter temp
 
 ## Table of Contents
 
-%% begin waypoint %%
 
-
-%% end waypoint %%
 
 ![[fn-website-demo.gif]]
 
