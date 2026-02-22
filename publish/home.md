@@ -19,8 +19,8 @@ Publish your Obsidian Notes with a highly customizable Next.JS blog starter temp
 
 ## Table of Contents
 
-## [[publish|Index Page]]
-![[publish]]
+## [[index|Index Page]]
+![[index]]
 
 
 

@@ -1,7 +1,20 @@
 %% Begin Waypoint %%
 - **attachments**
 	- **old**
-
+		- [[clone-or-download-github.png]]
+		- [[clone-repo-git-plugin.png]]
+		- [[configure-project-vercel.png]]
+		- [[create-pat-github.png]]
+		- [[disconnect-repo-vercel.png]]
+		- [[enable-actions-github.png]]
+		- [[fn-website-demo.gif]]
+		- [[fork-linked-blog-starter-md.png]]
+		- [[github-secrets-vercel.png]]
+		- [[how-linked-blog-starter-works.png]]
+		- [[publish-dir-yml.png]]
+		- [[vercel-account-id.png]]
+		- [[vercel-create-token.png]]
+		- [[vercel-project-id.png]]
 - **old**
 	- [[accepted-markdown-metadata]]
 	- [[connect-obsidian-vault-with-github]]
@@ -17,5 +30,7 @@
 	- [[works-out-of-the-box-with-markdown-files]]
 - [[cat]]
 - [[home]]
+- [[index]]
+- [[Pasted image 20260223004545.png]]
 
 %% End Waypoint %%
