@@ -9,12 +9,12 @@
 	- [[linked-blog-starter-does-not-reinvent-wheel|linked-blog-starter does not reinvent the wheel]]
 	- [[publish-your-obsidian-notes-with-linked-blog-starter|Publish your Obsidian Notes with linked-blog-starter]]
 	- [[reinventing-the-wheel|Reinventing the Wheel]]
-	- [[statically-generated]]
+	- [[statically-generated|works-out-of-the-box-with-markdown-files]]
 	- [[update-publish-settings-github-actions|Update the Publish Settings]]
-	- [[works-out-of-the-box-with-markdown-files|]]
-- [[cat]]
+	- [[works-out-of-the-box-with-markdown-files|]works-out-of-the-box-with-markdown-files]
+- [[cat|cat]]
 - [[home|An Extendable Obsidian Publish alternative using Next.JS]]
-- [[index]]
+- [[index|index]]
 
 %% End Landmark %%
 
