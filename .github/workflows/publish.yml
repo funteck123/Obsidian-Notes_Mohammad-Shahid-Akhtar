@@ -21,8 +21,8 @@ jobs:
           repository: ${{ env.BLOG_REPO }}
       - name: Install obsidian-export
         run: |
-          # wget https://github.com/zoni/obsidian-export/releases/download/v22.11.0/obsidian-export_Linux-x86_64.bin
-          wget https://github.com/zoni/obsidian-export/releases/download/v23.0.0/obsidian-export_Linux-x86_64.bin
+          wget https://github.com/zoni/obsidian-export/releases/download/v22.11.0/obsidian-export_Linux-x86_64.bin
+          # wget https://github.com/zoni/obsidian-export/releases/download/v23.0.0/obsidian-export_Linux-x86_64.bin
           chmod +x obsidian-export_Linux-x86_64.bin
       - name: Run obsidian-export
         run: |
